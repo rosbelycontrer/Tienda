@@ -2,8 +2,7 @@
 
 Actividad semana 7: interfaces con widgets de Tkinter según la historia de usuario HU-AUT-001, hecho con POO.
 
-**Estudiante:** (tu nombre)
-
+**Estudiante:** Rosbely Contreras
 ## Cómo ejecutar
 
 ```
